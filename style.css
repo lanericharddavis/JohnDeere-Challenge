@@ -1,0 +1,71 @@
+.greytransparent{
+  background-color: rgba(100, 100, 100, 0.685);
+}
+
+
+.ladytractor{
+background-image:url(./lady-on-tractor.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgone{
+background-image:url(./one.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgtwo{
+background-image:url(./two.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgthree{
+background-image:url(./three.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgfour{
+background-image:url(./four.jpg);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgfive{
+background-image:url(./five.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgsix{
+background-image:url(./six.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgseven{
+background-image:url(./seven.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.imgeight{
+background-image:url(./eight.webp);
+background-size: cover;
+background-position: center;
+min-height: 35vh;
+}
+
+.footerfont{
+  font-size: x-small;
+}
