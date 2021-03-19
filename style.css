@@ -5,7 +5,9 @@ p{
 
 h3{
   text-shadow: 2px 2px 8px #747474ca;
+  font-size: 3rem;  
 }
+
 
 .greytransparent{
   background-color: rgba(100, 100, 100, 0.685);
