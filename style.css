@@ -1,3 +1,12 @@
+p{
+  margin: 0;
+  padding: 0;
+}
+
+h3{
+  text-shadow: 2px 2px 8px #747474ca;
+}
+
 .greytransparent{
   background-color: rgba(100, 100, 100, 0.685);
 }
@@ -66,7 +75,10 @@ background-position: center;
 min-height: 35vh;
 }
 
-
 .footerfont{
   font-size: x-small;
+}
+
+.downsize{
+  size:10%
 }
